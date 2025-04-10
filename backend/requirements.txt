@@ -1,5 +1,0 @@
-flask
-statsmodels
-pandas
-numpy
-flask-cors
